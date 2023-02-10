@@ -1,0 +1,31 @@
+<!-- Jose Antonio Teodoro n01384776 Section B -->
+<resources>
+    <string name="app_name">JoseAssign2</string>
+    <string name="next">Are You Sure You Want To Continue</string>
+    <string name="snackbar_dom">Welcome To Domino\'s</string>
+    <string name="snackbar_hut">Welcome To Pizza Hut</string>
+    <string name="snackbar_za">Welcome To Pizza Pizza</string>
+    <string name="inputNullOrder">Invalid Choice\'s, Please Fill Out Your Order</string>
+    <string name="emptyField">Field Cannot Be Empty!</string>
+    <string name="invalidName">Invalid Name!</string>
+    <string name="invalidEmail">Invalid Email!</string>
+    <string name="invalidPostal">Invalid Postal Code!</string>
+    <string name="invalidCredit">Invalid Credit Card!</string>
+    <string name="invalidExpiry">Invalid Expiry Date!</string>
+    <string name="invalidCVV">Invalid CVV Number!</string>
+    <string-array name="provinces">
+        <item>Alberta</item>
+        <item>British Columbia</item>
+        <item>Manitoba</item>
+        <item>New Brunswick</item>
+        <item>Newfoundland and Labrador</item>
+        <item>Nova Scotia</item>
+        <item>Ontario</item>
+        <item>Prince Edward Island</item>
+        <item>Quebec</item>
+        <item>Saskatchewan</item>
+        <item>Yukon</item>
+        <item>Nunavut</item>
+        <item>Northwest Territories</item>
+    </string-array>
+</resources>
