@@ -1,0 +1,11 @@
+<!--Jose Antonio Castro Teodoro n01384776 Section B-->
+<resources>
+    <string name="app_name">JoseAssign3</string>
+    <string name="jose_tab">Jose</string>
+    <string name="teodoro_tab">Teodoro</string>
+    <string name="number_tab">N01384776</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Josefragment">Jose Antonio Teodoro n01384776</string>
+    <string name="n0138776fragment">N0138776Fragment</string>
+    <string name="teodorofragment">TeodoroFragment</string>
+</resources>
