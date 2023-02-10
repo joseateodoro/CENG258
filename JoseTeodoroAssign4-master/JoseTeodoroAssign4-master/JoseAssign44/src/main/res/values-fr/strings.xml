@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JoseAssign4</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string-array name = "image_array">
+        <item>Flower</item>
+        <item>Nature</item>
+        <item>Sky</item>
+    </string-array>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="jose_fullName">Jose Antonio Castro Teodoro</string>
+    <string name="jose_studentID">N01384776</string>
+    <string name="jose_Warning">ATTENTION</string>
+    <string name="jose_invalidZip">Code Postal Invalide</string>
+    <string name="jose_Weather">Météo</string>
+    <string name="jose_weatherGap">Météo\n</string>
+    <string name="jose_IDcolon">\"ID: "</string>
+    <string name="jose_ID">ID</string>
+    <string name="jose_mainColon">\nPrincipale:</string>
+    <string name="jose_Main">Principale</string>
+    <string name="jose_Description">Description</string>
+    <string name="jose_intDescription">Description</string>
+    <string name="jose_temperatureGap">\nTempérature</string>
+    <string name="jose_intTemperature">Température</string>
+    <string name="jose_humidityGap">\nHumidité</string>
+    <string name="jose_intHumidity">Humidité</string>
+    <string name="jose_ok">D Accord</string>
+    <string name="jose_loading">Téléchargement ...</string>
+    <string name="jose_fullName_ID">Jose Teodoro N01384776</string>
+    <string name="jose_mainAlertMsg">Êtes-Vous Sûr De Vouloir Fermer L Application?</string>
+    <string name="jose_Yes">Oui</string>
+    <string name="jose_No">Non</string>
+    <string name="jose_Sky">Ciel</string>
+    <string name="jose_Nature">Nature</string>
+    <string name="jose_Flower">Fleur</string>
+    <string name="jose_PNG">.png</string>
+</resources>
